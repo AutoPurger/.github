@@ -122,14 +122,14 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 13 days</small>
+                  over last 14 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 19 Oct 2024, 04:50:17 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2024, 05:25:16 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
